@@ -8,7 +8,9 @@ I worked on this project by following the Codebasics Data Analyst Bootcamp, Link
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYmQ5MmQ1NTgtNGI0OS00ODllLWIwZDAtZjI5OGVkNTI0MjRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ba99e4a6e71afa037759)
 
-Visit My Presentation Video on LinkedIn -> <a href="https://www.linkedin.com/posts/atharvasutar_datascience-powerbi-activity-7246149581787348993-kgyX?utm_source=share&utm_medium=member_desktop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/posts/atharvasutar_datascience-powerbi-activity-7246149581787348993-kgyX?utm_source=share&utm_medium=member_desktop" height="30" width="40" /></a>
+Visit my LinkedIn engagement on LinkedIn -> <a href="https://www.linkedin.com/posts/atharvasutar_datascience-powerbi-activity-7246149581787348993-kgyX?utm_source=share&utm_medium=member_desktop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/posts/atharvasutar_datascience-powerbi-activity-7246149581787348993-kgyX?utm_source=share&utm_medium=member_desktop" height="30" width="40" /></a>
+
+Visit full presentation video on YouTube -> <a href="https://youtu.be/BNllSc6zxxE?si=sAWiovs7UCw4jiPW" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7b9eb052-0b31-4693-a8db-2e907dfcfe56" alt="https://youtu.be/BNllSc6zxxE?si=sAWiovs7UCw4jiPW" height="30" width="40" /></a>
 
 ## Tech stacks
 * Microsoft Power Bi Desktop
